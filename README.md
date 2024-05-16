@@ -21,9 +21,6 @@ Here are some projects I'm proud of:
 - [Website](https://web2.qatar.cmu.edu/~shajizad/)
 - [LinkedIn](https://www.linkedin.com/in/salman-hajizada/)
 
-## Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 ## Get in Touch
 
