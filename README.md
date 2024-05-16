@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello, I'm Salman Hajizada
 
-<!--
-**sal0-h/sal0-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a student at Carnegie Mellon University, Qatar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Programming Languages: Python, Javascript, Visual Basic, SML, C
+- Technologies: Numpy, Tensorflow, Keras, Selenium
+
+## Projects
+
+Here are some projects I'm proud of:
+
+- [graph-theroy](https://github.com/sal0-h/graph-theory)
+- [cities-classifier](https://github.com/sal0-h/cities-classifier)
+
+## Find Me Online
+
+- [Website](https://web2.qatar.cmu.edu/~shajizad/)
+- [LinkedIn](https://www.linkedin.com/in/salman-hajizada/)
+
+## Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+## Get in Touch
+
+Feel free to reach out to me via [email](mailto:salmanhajizade2005@gmail.com) for collaborations or just to say hi!
