@@ -13,7 +13,7 @@ I'm a student at Carnegie Mellon University, Qatar.
 
 Here are some projects I'm proud of:
 
-- [graph-theroy](https://github.com/sal0-h/graph-theory)
+- [graph-theory](https://github.com/sal0-h/graph-theory)
 - [cities-classifier](https://github.com/sal0-h/cities-classifier)
 
 ## Find Me Online
