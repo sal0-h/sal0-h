@@ -9,7 +9,7 @@ I like building practical projects: ML models, small developer tools, simulation
 **Languages:** Python, JavaScript, C, Standard ML, Visual Basic, HTML/CSS, LaTeX  
 **Machine Learning:** NumPy, TensorFlow, Keras, Jupyter Notebook  
 **Tools and Automation:** Selenium, Git, GitHub, Linux/GNOME, LaTeX  
-**Interests:** graph algorithms, computer vision, logistics simulation, robotics, formal logic, education tooling
+**Interests:** graph algorithms, computer vision, logistics simulation, robotics, education tooling
 
 ## Selected Projects
 
